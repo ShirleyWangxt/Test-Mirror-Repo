@@ -10,3 +10,6 @@ GitHub repo
 
 Change on main branch to test normal pull mirroring
 GitHub repo
+
+Change on main branch to test local changes - new local branch overwritten or not
+GitHub repo
