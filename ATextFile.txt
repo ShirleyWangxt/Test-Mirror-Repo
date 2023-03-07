@@ -4,3 +4,6 @@ some lines
 
 Change for diverged branch on main branch1
 GitHub repo
+
+Change on main branch to test if new GitLab branch is overwritten
+GitHup repo
