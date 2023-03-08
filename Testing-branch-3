@@ -1,1 +1,4 @@
 Testing-branch-3
+
+Add change on another branch that is not diverged from downstream to test mirroring only protected branch
+GitHub repo
